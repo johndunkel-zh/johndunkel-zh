@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @johndunkel-zh
+- 👋 Hi, I’m John
 - 👀 I’m interested in DeFi and Custody
 - 📫 How to reach me john.dunkel@zerohash.com
 
